@@ -304,4 +304,4 @@ This lab demonstrates your ability to:
 ---
 
 
-→ C’est ce type de README qui **impressionne vraiment les recruteurs Cloud / DevSecOps**.
+
